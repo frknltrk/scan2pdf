@@ -2,8 +2,10 @@
 an online tool which generates one single pdf file out of multiple (scanned) image files
 
 scanImage()
-  // input: *image*
-  // output: *ScannedImaged*
+  '''
+  input: *image*
+  output: *ScannedImaged*
+  '''
 toPdf()
   // input: *ScannedImage*
   // output: *pdf_file*
